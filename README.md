@@ -5,6 +5,14 @@
 - 평균 유저 conversion rate 1% ~ 2%, 100명 중에 1명 2명이 유료서비스를 등록함. 
 - 연 구독료 $12 ~ $15, 구독 유저 1명의 한 달 가치 =>  $0.83
 - 광고 수익 한 달 1명의 가치 => $0.3 
+- conversion rate 1% 유저 100명의 가치 => $30.52 
+- conversion rate 2% 유저 100명의 가치 => $31.06
+```jsx
+    const subscribedUserValue = 0.83 
+    const nonPayingDAUUserValue = 0.3 
+    subscribedUserValue * 1 + nonPayingDAUUserValue * 99
+    subscribedUserValue * 2 + nonPayingDAUUserValue * 98
+```
 
 ### KPI 
 
