@@ -1,6 +1,6 @@
 # app_business_research
 
-### Value Per Active User
+### Value Per Daily Active User
 
 - 평균 유저 conversion rate 1% ~ 2%, 100명 중에 1명 2명이 유료서비스를 등록함. 
 - 연 구독료 $12 ~ $15, 구독 유저 1명의 한 달 가치 =>  $0.83
@@ -8,7 +8,7 @@
 
 ### KPI 
 
-나의 광고 125% KPI
+-나의 광고 125% KPI
     - 월 500 모델
         - 월급 280만원 + 사업이득 220만원
         - DAU 36,065명 ⇒ 사업이득 220만원
