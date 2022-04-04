@@ -66,3 +66,6 @@
 - DAU 1000, 전면 광고 ⇒ 300달러
 - DAU 300, ⇒ 월 45달러
 - 하루 평균 3만원 쓰면 10만은 편히 감.
+
+
+https://ahnslab.com/sideproject-platform-list/
