@@ -60,3 +60,8 @@
     let expectedAdExpense = (100 * 30.52) / adPerformance;
     console.log(expectedAdExpense);
     ```
+---
+
+- DAU 1000, 배너 광고 ⇒ 150 달러
+- DAU 1000, 전면 광고 ⇒ 300달러
+- DAU 300, ⇒ 월 45달러
